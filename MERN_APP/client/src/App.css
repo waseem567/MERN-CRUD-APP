@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;800&display=swap');
+body{
+    font-family: 'Poppins', sans-serif; 
+    background-color: rgb(234, 234, 234);
+    cursor: url('./components/image/icons8-select-cursor-48.png'), auto;
+    overflow-x: "hidden";
+}
